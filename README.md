@@ -156,5 +156,5 @@ Therefore, the choice of the final model depends on the relative importance of c
 The project is also deployed as a Streamlit web application.
 
 **Live Application:**  
-https://south-german-credit-classification.streamlit.app
+https://statlog-german-credit-classification.streamlit.app
 
