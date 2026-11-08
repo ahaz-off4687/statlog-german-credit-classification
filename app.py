@@ -22,7 +22,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("South German Credit Classification")
+st.title("Statlog German Credit Classification")
 st.write("Compare five trained machine learning models.")
 
 # Available trained models
