@@ -1,15 +1,15 @@
 
-# South German Credit Classification
+# Statlog German Credit Classification
 
 ## 1. Project Overview
 
-This project compares five machine learning classification algorithms using the South German Credit dataset.
+This project compares five machine learning classification algorithms using the Statlog German Credit dataset.
 
 The objective is to classify credit applicants into two classes using customer and financial information.
 
 ## 2. Dataset Information
 
-- Dataset: South German Credit
+- Dataset: Statlog German Credit
 - Source: UCI Machine Learning Repository
 - Dataset ID: 522
 - Total records: 1000
@@ -105,4 +105,5 @@ ML Assignment 2/
 ## 11. Dataset Reference
 
 UCI Machine Learning Repository:
-https://archive.ics.uci.edu/dataset/522/south+german+credit
+
+https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
