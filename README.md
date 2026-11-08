@@ -11,7 +11,7 @@ The objective is to classify credit applicants into two classes using customer a
 
 - Dataset: Statlog German Credit
 - Source: UCI Machine Learning Repository
-- Dataset ID: 522
+- Dataset ID: 144
 - Total records: 1000
 - Input features: 20
 - Target variable: class
